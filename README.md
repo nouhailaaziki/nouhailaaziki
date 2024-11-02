@@ -9,5 +9,6 @@ Welcome to my GitHub space! 🌟
 ---
 
 ### Connect with me:
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="nouhaila-aziki-055358327" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/nouhaila-aziki-055358327?trk=profile-badge">Nouhaila Aziki</a></div>
+
+**My Linkedin :** <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="nouhaila-aziki-055358327" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/nouhaila-aziki-055358327?trk=profile-badge">Nouhaila Aziki</a></div>
               
