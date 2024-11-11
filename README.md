@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nouhaila Aziki</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&text=Hi,%20I'm%20Nouhaila%20Aziki.%20Welcome!&fontSize=24&fontAlignY=32&animation=twinkling" alt="header" width="100%" />
+<samp>
 <h3 align="center">Welcome to my GitHub space! 🌟 :)</h3>
+i'm a student in 1337 coding school, 42 The Network<br>
+You can find my school and personal projects below. Me, I'm here <a href="https://www.linkedin.com/in/mohamed-himi1/"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" width="35" /></a>.<br><br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouhailaaziki&label=Profile%20views&color=0e75b6&style=flat" alt="nouhailaaziki" /> </p>
 
