@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouhailaaziki&label=Profile%20views&color=0e75b6&style=flat" alt="nouhailaaziki" /> </p>
 
-<p align="center"> a student in UM6P - 1337 coding school, 42 The Network</p>
+<p align="center">I'm based in Morocco</p>
+<p align="center">a student in UM6P - 1337 coding school, 42 The Network</p>
 <p align="center">I'm on an exciting journey diving deep into programming and constantly expanding my skills.</p>  
 <p align="center">Explore all of my projects right here:(https://github.com/nouhailaaziki)</p>  
 <p align="center">Feel free to reach out to me: contact.naziki@gmail.com</p>
