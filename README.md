@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&text=Hi,%20I'm%20Nouhaila%20Aziki.&fontSize=24&fontAlignY=32&animation=twinkling" alt="header" width="100%" />
 <samp>
-<h3 align="center">🌟 Welcome to my GitHub space! 🌟</h3>
+<h3 align="center"> Welcome to my GitHub space! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouhailaaziki&label=Profile%20views&color=0e75b6&style=flat" alt="nouhailaaziki" /> </p>
 
