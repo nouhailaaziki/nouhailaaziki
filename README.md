@@ -1,4 +1,4 @@
-<h3 align="center">Welcome to my GitHub space — where I share my coding projects and learning journey! </h3>
+<h3 align="center">Welcome to my GitHub space, where I share my coding projects and learning journey! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouhailaaziki&label=Profile%20views&color=0e75b6&style=flat" alt="nouhailaaziki" /> </p>
 
