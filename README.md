@@ -46,10 +46,10 @@
 
 <div align="center">
 
-| Certificate | Certificate |
-|:---:|:---:|
-| [![C Certification](assets/certificates/C_Certification.jpg)](https://www.codingame.com/certification/q7-ubh5UHKp39JNWRrVEVA) | [![PYTHON 3 Certification](assets/certificates/PYTHON_3_Certification.jpg)](https://www.codingame.com/certification/r3yibfFt3HJQOMf9WUZ5gQ) |
-| [![C++ Certification](assets/certificates/CPP_Certification.jpg)](https://www.codingame.com/certification/8cdJVIR-Af5yUF0PIuCSDQ) | [![JAVA Certification](assets/certificates/JAVA_Certification.jpg)](https://www.codingame.com/certification/yunlYcMuVOjIST1oYPwwaw) |
+||||
+|:---:|:---:|:---:|
+| [![C Certification](assets/certificates/C_Certification.jpg)](https://www.codingame.com/certification/q7-ubh5UHKp39JNWRrVEVA) | [![C++ Certification](assets/certificates/CPP_Certification.jpg)](https://www.codingame.com/certification/8cdJVIR-Af5yUF0PIuCSDQ) | [![JAVA Certification](assets/certificates/JAVA_Certification.jpg)](https://www.codingame.com/certification/yunlYcMuVOjIST1oYPwwaw) |
+| [![PYTHON 3 Certification](assets/certificates/PYTHON_3_Certification.jpg)](https://www.codingame.com/certification/r3yibfFt3HJQOMf9WUZ5gQ) | [![JAVASCRIPT Certification](assets/certificates/JAVASCRIPT_Certification.jpg)](https://www.codingame.com/certification/LTom6Z3cnkctlx9OrIpHrA) | [![TYPESCRIPT Certification](assets/certificates/TYPESCRIPT_Certification.jpg)](https://www.codingame.com/certification/3mC1ZxEh6vy7T5uKLumrpQ) |
 
 </div>
 
