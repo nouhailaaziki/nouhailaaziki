@@ -6,8 +6,6 @@
 
 <p align="center">Software engineering student at 1337 (42 Network), passionate about building software and learning by doing. I have experience with full-stack development, system architecture, and problem-solving through hands-on projects and peer learning. I enjoy understanding how things work, building them from scratch, and improving my skills by working on real projects with others.</p>
 
-<p align="center"><img src="https://badge.mediaplus.ma/greenbinary/noaziki" alt="noaziki's 42 stats" /></a></p>
-
 ---
 
 <div align="center">
